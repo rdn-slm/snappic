@@ -1,4 +1,4 @@
-snappic/
+## snappic/
 │
 ├── main.py                    # Entry point
 │
