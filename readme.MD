@@ -2,11 +2,9 @@
 
 <div align="center">
 
-**Slay your image edits like a pro!** 
+**Slay your image edits like a pro! Offline and locally, you can do lah~** 
 
 </div>
-
-## 🚀 What's the Vibe? 
 
 ### ✨ Key Features That Hit Different:
 
@@ -39,19 +37,17 @@ cd snappic
 python main.py
 ```
 
-3. **Watch the magic happen!** ✨
-
 ## 🖼️ How to Use:
 
 ### 1. **Load Your Pic** 📤
    - Click "OPEN" or drag & drop
-   - Supports: JPG, PNG, BMP, TIFF (we're inclusive like that!)
+   - Supports: JPG, PNG, BMP, TIFF
 
 ### 2. **Edit Like a Pro** 🎨
 
 #### **Blur Tab** 🌫️
 - **Global Blur**: Smooth out everything
-- **Selective Blur**: Highlight what matters, blur the rest (big main character energy!)
+- **Selective Blur**: Highlight what matters, blur the rest 
 
 #### **Color Tab** 🎨
 - **Grayscale**: Classic black & white aesthetic
@@ -72,7 +68,6 @@ python main.py
 
 ### 3. **Save Your Masterpiece** 💾
 - Save as PNG (with transparency!), JPG, or BMP
-- **Pro Tip**: Save binary masks separately for extra creative projects!
 
 ## 🎯 Pro Tips (The Secret Sauce):
 
@@ -93,7 +88,7 @@ python main.py
    - `Ctrl + Click & Drag` = Crop selection
    - Regular click & drag = Selective blur drawing
 
-## 🏗️ Project Structure (For the Nerds 🤓):
+## 🏗️ Project Structure :
 
 ```
 SnapPic/
@@ -139,10 +134,11 @@ We love collabs! Here's how you can contribute:
 - Implement batch processing
 - Add social media templates
 - Create preset filter packs
+- Whatever you can think of!
 
 ## 🙌 Shoutouts
-
 Made with ❤️ by the SNAPPIC squad. Special thanks to:
+- 
 - OpenCV community for the amazing library
 - All the beta testers who helped shape this tool
 - You, for using our editor! 😊
