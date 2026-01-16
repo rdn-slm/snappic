@@ -1,4 +1,4 @@
-# SNAPPIC - Enhance Pic to Its Peak
+# SNAPPIC - Enhance Pic to Its Peak 🏔️
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 - **✂️ Crop & Resize** - For that perfect aspect ratio (IG square? Twitter wide? We got it!)
 - **🔍 Binary Masks** - Create cool black-and-white effects for your aesthetic!
 
-## 🎮 Quick Start - Let's Get Lit!
+## 🎮 Quick Start
 
 ### Prerequisites (What You Need):
 
@@ -138,7 +138,7 @@ We love collabs! Here's how you can contribute:
 
 ## 🙌 Shoutouts
 Made with ❤️ by the SNAPPIC squad. Special thanks to:
-- 
+- Aifa Insyirah and Amirah for being the co-authors
 - OpenCV community for the amazing library
 - All the beta testers who helped shape this tool
 - You, for using our editor! 😊
